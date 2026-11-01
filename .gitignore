@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Originals kept locally only; the site serves profile-photo.jpg and the
+# encrypted RUFIN_REJIE_RESUME.pdf instead of these raw uploads.
+Media (10).jpg
+RUFIN, REJIE_RESUME.pdf
+/freebuff-sites-build/
+
+# Sites deploy bundle built from the tracked source files
+/dist/
+
